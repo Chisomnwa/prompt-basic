@@ -26,6 +26,7 @@ Write a direct instruction prompt (e.g., “List three programming languages”)
 Write a question style prompt (e.g., “What are the benefits of Python for AI?”).
 
     What are the benefits of journaling to mental development?
+    
     Here are some key benefits of journaling for mental development:
 
     Improves self-awareness
